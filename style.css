@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+}
+main img{
+    width: 400px;
+    height: 200px;
+}
+h1{
+    color: rgb(192, 217, 192);
+    background-color: black;
+    text-align: center;
+    font-size: 50px;
+}
+main{
+    background-color: black;
+    color: greenyellow;
+}
+p image{
+    width:  400px;
+    height: 200px;
+    align-items:center;
+}
+Footer{
+    color: lightblue;
+    background-color: black;
+}
+p{
+    font-size: 20px;
+}
